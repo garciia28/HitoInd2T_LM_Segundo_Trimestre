@@ -1,0 +1,26 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    position: relative;
+    margin: auto;
+    background-color: white;
+}
+
+th {
+  background-color: beige;
+}
+
+body{
+  background-color: rgb(253, 253, 253);
+}
+
+table , h1{
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  font-size: 20px;
+  color:rgb(47, 206, 95);
+}
